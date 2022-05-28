@@ -1,21 +1,4 @@
-Skip to content
-aswinanbalagan
-/
-solidity
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-solidity/SimpleATM.sol
-@aswinanbalagan
-aswinanbalagan SimpleATMproject
- 1 contributor
-52 lines (43 sloc)  1.7 KB
+
 // SPDX-License-Identifier: GPL-3.0
 
 pragma solidity >=0.7.0 <0.9.0;
@@ -68,15 +51,3 @@ contract SimpleATM {
         return false;
     }
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
